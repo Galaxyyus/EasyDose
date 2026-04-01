@@ -5,7 +5,7 @@ int night_button = 7;
 
 int buzzer = 11;
 int alarm_led = 12;
-int alarm_master = 13;
+int alarm_master = 8;
 
 int before_switch = 2;
 int after_switch = 3;
